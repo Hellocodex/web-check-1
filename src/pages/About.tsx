@@ -111,7 +111,7 @@ const About = (): JSX.Element => {
     <AboutContainer>
       <Nav>
         <HeaderLinkContainer>
-          <a href="https://github.com/lissy93/web-check"><Button>View on GitHub</Button></a>
+          <a href="https://github.com/heycodex"><Button>View on GitHub</Button></a>
         </HeaderLinkContainer>
       </Nav>
 
@@ -122,11 +122,11 @@ const About = (): JSX.Element => {
         ))}
         <hr />
         <p>
-          Web-Check is developed and maintained by <a href="https://aliciasykes.com">Alicia Sykes</a>.
-          It's licensed under the <a href="https://github.com/Lissy93/web-check/blob/master/LICENSE">MIT license</a>,
+          Web-Check is developed and maintained by <a href="https://google.com">CODEX</a>.
+          It's licensed under the <a href="https://github.com/heycodex">MIT license</a>,
           and is completely free to use, modify and distribute in both personal and commercial settings.<br />
-          Source code and self-hosting docs are available on <a href="https://github.com/lissy93/web-check">GitHub</a>.
-          If you've found this service useful, consider <a href="https://github.com/sponsors/Lissy93">sponsoring me</a> from $1/month,
+          Source code and self-hosting docs are available on <a href="https://github.com/heycodex">GitHub</a>.
+          If you've found this service useful, consider <a href="https://github.com/heycodex">sponsoring me</a> from $1/month,
           to help with the ongoing hosting and development costs.
         </p>
       </Section>
@@ -222,13 +222,13 @@ const About = (): JSX.Element => {
         <Heading as="h3" size="small" color={colors.primary}>Support</Heading>
         <p>
           If you've found something that doesn't work as expected, or would like to ask any questions,
-          you can open a ticket at <a href="https://github.com/lissy93/web-check/issues">github.com/lissy93/web-check/issues</a>
+          you can open a ticket at <a href="https://github.com/heycodex">github.com/heycodex/</a>
         </p>
         <hr />
         <Heading as="h3" size="small" color={colors.primary}>Sponsor</Heading>
         <p>
           If you've found this service useful, consider sponsoring me on
-          GitHub - <a href="https://github.com/sponsors/Lissy93">github.com/sponsors/Lissy93</a> 💖
+          GitHub - <a href="https://github.com/heycodex">CODEX</a> 💖
         </p>
       </Section>
     </AboutContainer>
